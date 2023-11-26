@@ -4,10 +4,10 @@
     <isExposed>true</isExposed>
     <targets>
         <target>lightning__RecordAction</target>
-      </targets>
-      <targetConfigs>
+    </targets>
+    <targetConfigs>
         <targetConfig targets="lightning__RecordAction">
-          <actionType>ScreenAction</actionType>
+            <actionType>ScreenAction</actionType>
         </targetConfig>
-      </targetConfigs>
+    </targetConfigs>
 </LightningComponentBundle>
